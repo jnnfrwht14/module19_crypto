@@ -12,3 +12,5 @@
 
 
 ![CryptoPCAplot](https://github.com/jnnfrwht14/module19_crypto/assets/144621532/fcc62230-ae85-4ab4-b403-598d0624ae14)
+
+Images located in the images folder.
