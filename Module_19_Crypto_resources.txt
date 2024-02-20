@@ -3,3 +3,10 @@ Module 19 Crypto Currency Clustering resources
 
 Hyplot:
 https://stackoverflow.com/questions/75155189/formatting-hover-text-when-plotting-with-hvplot
+https://hvplot.holoviz.org/user_guide/Viewing.html
+
+Elbows: 
+https://365datascience.com/tutorials/python-tutorials/k-means-clustering/
+
+Scikit random state:
+https://scikit-learn.org/stable/glossary.html#term-random_state
